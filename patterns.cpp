@@ -385,6 +385,8 @@ void printsquare(int n){
 
 int main(){
 	int n;
+	// Introduction
+	cout << "--------Pattern Play Ground---------------" << endl << "!!!! NOTE: SOME Patterns works best in more rows rather than 1-3" << endl << endl << endl;
 	// All the available Patterns
 	string pname[]= {"Leftsided Pyramid","Numbered Leftsided Pyramid","Same number Leftsided Pyramid",
 					 "Reverse Leftsided Pyramid", "Reverse Number Leftsided Pyramid ", "Centerd Pyramid",
