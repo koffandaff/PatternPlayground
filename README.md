@@ -62,7 +62,148 @@ Welcome to **PatternPlayground** — an interactive C++ lab for printing stylish
 *******
 ```
 
+### 7. Diamond
+```
+    *
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
 
+```
+### 8. Left Base Pyramid
+```
+
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+
+```
+### 9. 1-0 Chain Left Sided Pyramid
+```
+
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+
+```
+### 10. Left + Right Sided Number Pyramid
+```
+
+1        1
+12      21
+123    321
+1234  4321
+1234554321
+
+```
+
+### 11. Alphabets Left Sided Pyramid
+
+```
+A
+A B
+A B C
+A B C D
+A B C D E
+```
+### 12. Alphabets Reverse Left Sided Pyramid
+```
+A B C D E
+A B C D
+A B C
+A B
+A
+
+```
+### 13. Same Alphabets Left Sided Pyramid
+
+```
+A
+B B
+C C C
+D D D D
+E E E E E
+
+```
+### 14. Alphabets Centered Pyramid
+
+```
+
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+
+```
+
+###  15. Reverse Alphabets Left Sided Pyramid
+
+```
+E
+D E
+C D E
+B C D E
+A B C D E
+
+```
+### 16. Spaced Diamond
+
+```
+
+**********
+****  ****
+***    ***
+**      **
+*        *
+*        *
+**      **
+***    ***
+****  ****
+**********
+```
+### 17. Left Base Pyramid + Right Base Pyramid
+
+```
+
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+```
+
+### 18. Square (Border Stars)
+
+```
+
+*****
+*   *
+*   *
+*   *
+*****
+
+```
 ---
 
 ## Project Overview
